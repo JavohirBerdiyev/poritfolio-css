@@ -62,7 +62,7 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   color: #555;
-  background: #fff;
+  background: rgb(255, 0, 0);
   font-size: 0.9em;
   font-weight: 400;
 }
